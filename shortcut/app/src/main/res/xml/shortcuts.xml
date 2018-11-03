@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="static shortcut 1"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_short_name1"
+        android:shortcutLongLabel="@string/shortcut_long_name1"
+        android:shortcutDisabledMessage="@string/shortcut_disable_msg1">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="d.shortcuts"
+            android:targetClass="d.shortcuts.MainActivity" />
+        <categories android:name="android.shortcut.conversation"/>
+    </shortcut>
+    <shortcut
+        android:shortcutId="static shortcut 2"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_short_name2"
+        android:shortcutLongLabel="@string/shortcut_long_name2"
+        android:shortcutDisabledMessage="@string/shortcut_disable_msg2">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="d.shortcuts"
+            android:targetClass="d.shortcuts.Main2Activity" />
+        <categories android:name="android.shortcut.conversation"/>
+    </shortcut>
+    <shortcut
+        android:shortcutId="static shortcut 3"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_short_name2"
+        android:shortcutLongLabel="@string/shortcut_long_name2"
+        android:shortcutDisabledMessage="@string/shortcut_disable_msg2">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="d.shortcuts"
+            android:targetClass="d.shortcuts.Main2Activity" />
+        <categories android:name="android.shortcut.conversation"/>
+    </shortcut>
+    <shortcut
+        android:shortcutId="static shortcut 4"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_short_name2"
+        android:shortcutLongLabel="@string/shortcut_long_name2"
+        android:shortcutDisabledMessage="@string/shortcut_disable_msg2">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="d.shortcuts"
+            android:targetClass="d.shortcuts.Main2Activity" />
+        <categories android:name="android.shortcut.conversation"/>
+    </shortcut>
+    <shortcut
+        android:shortcutId="static shortcut 5"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_short_name2"
+        android:shortcutLongLabel="@string/shortcut_long_name2"
+        android:shortcutDisabledMessage="@string/shortcut_disable_msg2">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="d.shortcuts"
+            android:targetClass="d.shortcuts.Main2Activity" />
+        <categories android:name="android.shortcut.conversation"/>
+    </shortcut>
+    <shortcut
+        android:shortcutId="static shortcut 6"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_short_name2"
+        android:shortcutLongLabel="@string/shortcut_long_name2"
+        android:shortcutDisabledMessage="@string/shortcut_disable_msg2">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="d.shortcuts"
+            android:targetClass="d.shortcuts.Main2Activity" />
+        <categories android:name="android.shortcut.conversation"/>
+    </shortcut>
+    <shortcut
+        android:shortcutId="static shortcut 7"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_short_name2"
+        android:shortcutLongLabel="@string/shortcut_long_name2"
+        android:shortcutDisabledMessage="@string/shortcut_disable_msg2">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="d.shortcuts"
+            android:targetClass="d.shortcuts.Main2Activity" />
+        <categories android:name="android.shortcut.conversation"/>
+    </shortcut>
+</shortcuts>

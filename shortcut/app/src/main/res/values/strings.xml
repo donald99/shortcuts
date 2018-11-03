@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShortCuts</string>
+
+    <string name="shortcut_short_name1">短名称1</string>
+    <string name="shortcut_long_name1">胡玲</string>
+    <string name="shortcut_disable_msg1">shortcut_disable_msg1</string>
+
+    <string name="shortcut_short_name2">短名称2</string>
+    <string name="shortcut_long_name2">刘圣文</string>
+    <string name="shortcut_disable_msg2">shortcut_disable_msg2</string>
+
+</resources>
